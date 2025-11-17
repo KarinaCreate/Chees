@@ -3,7 +3,7 @@
 
 ## Результат предсказаний
 
-[<img src="result/prediction_plot.jpg" width="600"/>](result/prediction_plot.jpg)
+[<img src="result/график.png" width="700"/>](result/prediction_plot.jpg)
 
 ## Метод решения
  1. Подготовка данных:
